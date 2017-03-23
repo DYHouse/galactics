@@ -102,3 +102,5 @@ local.properties
 # Code Recommenders
 .recommenders/
 
+galactics-communication/src/test/
+galactics-communication/target/
